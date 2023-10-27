@@ -128,7 +128,7 @@ const BarChart: React.FC<BarChartProps> = ({
         </text>
         <text
           x={horizontal ? -((chartHeight + margin) / 2) : -(chartHeight / 2 + margin)}
-          y={horizontal ? 0 : 30}
+          y={horizontal ? 0 : 15}
           fill={theme.labelColor}
           textAnchor="middle"
           transform={horizontal ? 'rotate(-90)' : 'rotate(-90)'}
