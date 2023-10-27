@@ -72,4 +72,4 @@ data: number[];
 
 Run your React application to view the bar chart.
 
-An example is deployed at: https://vercel.com/alisas-projects-bd682151/react-bar-chart/25GYBbRFvscg6RcUrJC2HQ419wfZ
+An example is deployed at: https://react-bar-chart-elp99kcwr-alisas-projects-bd682151.vercel.app/
